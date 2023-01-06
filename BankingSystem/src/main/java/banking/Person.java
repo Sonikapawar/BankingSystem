@@ -10,11 +10,11 @@ public class Person {
 
 	public String getFirstName() {
 		// complete the function
-        return null;
+        return FirstName;
 	}
 
 	public String getLastName() {
 		// complete the function
-        return null;
+        return LastName;
 	}
 }
