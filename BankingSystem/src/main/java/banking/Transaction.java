@@ -32,6 +32,7 @@ public class Transaction {
 
 	public void credit(double amount) {
 		// complete the function
+		return true;
 	}
 
 	public boolean debit(double amount) {
